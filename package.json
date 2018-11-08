@@ -1,0 +1,9 @@
+{
+  "name": "gcp-action",
+  "version": "0.1.0",
+  "dependencies": {
+    "@google-cloud/compute": "^0.10.0",
+    "@google-cloud/datastore": "^2.0.0",
+    "mysql": "^2.16.0"
+  }
+}
